@@ -68,7 +68,7 @@ _🔽 Aquí puedes incluir una captura de pantalla mostrando el programa corrien
 
 Aquí puedes acceder al código completo en GitHub:
 
-
+https://github.com/Washitox/Regla-De-Pascal.git 
 
 ---
 
